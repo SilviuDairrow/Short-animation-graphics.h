@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639240175 source:d:\c++\short animation\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<tgmath.h>
+	<math.h>
+
